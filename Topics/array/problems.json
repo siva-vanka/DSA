@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T13:13:38.414Z",
+  "updatedAt": "2026-09-07T13:13:42.834Z",
   "problems": [
     {
       "frontendId": "724",
@@ -22,7 +22,7 @@
           "filename": "0724-find-pivot-index.java",
           "path": "0724-find-pivot-index/0724-find-pivot-index.java",
           "sha": "78c5c2b99120fb94a78862187b752c3c0d6c97d8",
-          "lastSyncedAt": "2026-09-05T14:09:51.756Z"
+          "lastSyncedAt": "2026-09-07T13:13:42.834Z"
         }
       ]
     },
